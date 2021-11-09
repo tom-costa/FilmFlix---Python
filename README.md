@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="#" alt="FilmFlix gif"/>
+  <img src="https://github.com/tom-costa/FilmFlix-Python/blob/main/FilmFlix_replit.png" alt="FilmFlix gif"/>
 </p>
 
 # FilmFlix
